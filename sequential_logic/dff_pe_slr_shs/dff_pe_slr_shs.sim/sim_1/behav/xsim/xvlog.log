@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/dff_pe_slr_shs/dff_pe_slr_shs.srcs/sources_1/new/dff_pe_slr_shs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff_pe_slr_shs
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/dff_pe_slr_shs/dff_pe_slr_shs.srcs/sim_1/new/dff_pe_slr_shs_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff_pe_slr_shs_tb

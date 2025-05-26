@@ -1,0 +1,4 @@
+Running: xsim.dir/dff_pe_slr_shs_tb_behav/xsimk.exe -simmode gui -wdb dff_pe_slr_shs_tb_behav.wdb -simrunnum 0 -socket 63895
+Design successfully loaded
+Design Loading Memory Usage: 27376 KB (Peak: 27376 KB)
+Design Loading CPU Usage: 483 ms
